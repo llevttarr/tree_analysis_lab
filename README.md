@@ -1,1 +1,3 @@
-# tree_analysis_lab
+### Discrete math II: lab 1 (trees)
+- Taras Levytskyi
+- Vladyslav Shymanovskyi
